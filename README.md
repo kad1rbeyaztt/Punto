@@ -1,0 +1,2 @@
+# Punto
+Otel işleriyle ilgilenmek
