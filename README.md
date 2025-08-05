@@ -1,2 +1,2 @@
-# Punto
+# Punto otel
 Otel işleriyle ilgilenmek
